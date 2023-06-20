@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rekomendasi Restoran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="informasi">Our Restaurant Recommendation App is the perfect solution to find restaurants that suit your tastes and preferences. With reliable features and trusted user reviews, we provide outstanding restaurant recommendations. Easily find authentic dishes, exotic culinary delights, and fine dining experiences through this app. Enjoy unrivaled delicacy, impressive ambiance, and outstanding service at our selected restaurants. Turn each of your culinary visits into a mouth-watering adventure with our Restaurant Recommendations. This app provides the best restaurant recommendations around you. Enjoy an unforgettable culinary experience with authentic dishes and a wide variety of menus.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+    <string name="map_content_description">Tampilan peta menampilkan lokasi restoran</string>
+
+</resources>
